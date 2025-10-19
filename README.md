@@ -1,10 +1,8 @@
-<h1 align="center"> Hi, It is Ilkin🪄 <h1>
+<h1 align="center">Hi, I'm Ilkin🪄 - A Passionate Developer with a Data Science Focus!</h1>
 <p align="center">
-  <i>
-    A passionate developer with a background in Data Science, always aiming for the extraordinary,
-    Studying in ADA University, BSCS2026
-  </i>
+  <i> "Striving for the extraordinary, one line of code at a time." </i>
 </p>
+
 
 ### 👾About me
 
@@ -37,10 +35,20 @@
 
 ---
 
+### 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=IlkinAlisov&show_icons=true&hide_title=true&count_private=true&hide=prs)
+
+--- 
+
 ### 📈 LeetCode Stats
 ![LeetCode Stats](https://leetcode-stats.vercel.app/api?username=IlkinAlisov)
 
 ---
 
+### 📬 Let's Collaborate
+I'm always open to interesting projects and collaborations. Feel free to reach out to me via [email](mailto:ialisov795@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/ilkin-alishov-13014837b/?trk=opento_sprofile_topcard).
+
+---
 
 <p align="center"> Practice makes perfect </p>
